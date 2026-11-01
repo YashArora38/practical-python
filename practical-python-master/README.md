@@ -5,10 +5,8 @@ HI My name is Yash Arora and i have been doing python for last 2 years and now i
 
 [GitHub Pages](https://dabeaz-course.github.io/practical-python) | [GitHub Repo](https://github.com/dabeaz-course/practical-python).
 
---David Beazley ([https://dabeaz.com](https://dabeaz.com)), [@dabeaz](https://mastodon.social/@dabeaz)
 
-(P.S. This course is about Python. If you want a Python course that's about programming,
-you might consider [Advanced Programming with Python](https://www.dabeaz.com/advprog.html))
+
 
 ## What is This?
 
@@ -131,10 +129,4 @@ This course represents a "finished product" that was taught and
 developed for more than decade.  I have no plans to significantly
 revise the material at this time, but will occasionally fix bugs and
 add clarification.
-
-### Q: Do you accept pull requests?
-
-Bug reports are appreciated and may be filed through the
-[issue tracker](https://github.com/dabeaz-course/practical-python/issues).
-Pull requests are not accepted except by invitation. Please file an issue first.
 
